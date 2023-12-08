@@ -1,0 +1,9 @@
+﻿Lake,Length,Fish,Invertebrate,Reptile,Bird,Other
+Hancock,<=2,23,4,2,2,8
+Hancock,>2,7,0,1,3,5
+Oklawaha,<=2,5,11,1,0,3
+Oklawaha,>2,13,8,6,1,0
+Trafford,<=2,5,11,2,1,5
+Trafford,>2,8,7,6,3,5
+George,<=2,16,19,1,2,3
+George,>2,17,1,0,1,3
